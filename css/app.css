@@ -1,0 +1,42 @@
+#coliz{
+	 style="background-color:blue;"
+	 }
+#lupa{
+	background-color:pink;
+	border-radius:0 10px 10px 0;
+	padding:8px;
+	height:auto;
+	}
+#bloque{
+	border-radius:10px 0 0 10px;
+	}
+section{
+	padding:15px 15px 15px 15px;}
+.panel{
+	padding:5px;
+	border-radius:5px;
+	}
+.panel1{
+	padding:0 0 5px 5px;
+	border-radius:5px;
+	}
+.favoritos{
+	border:1px solid pink;
+	border-radius:3px;
+	text-align:center;}
+h5, h4{
+	color:pink;
+	font-stretch:expanded;
+	text-shadow:1px 1px grey;}
+.comentario{
+	border-radius:25px;}
+.pink{
+	background-color:pink;
+	}
+#user{
+	height:40px;
+	width:50px;
+	}
+td {border-bottom: 1px solid #ccc;}
+table, tr, td{
+	background-color:transparent;}
